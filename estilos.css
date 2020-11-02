@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 
+=======
+body{
+    border:1px green solid;
+}
+>>>>>>> estilosBotones
 h1{
     text-transform: capitalize;
     color:red;
