@@ -1,5 +1,6 @@
 body{
     border:1px green solid;
+    background-color: gray;
 }
 h1{
     text-transform: capitalize;
@@ -11,5 +12,9 @@ h2{
 
 button{
     color:purple;
+}
+
+p{
+    color: blueviolet
 }
 
